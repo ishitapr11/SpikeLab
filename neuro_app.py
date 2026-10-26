@@ -86,7 +86,7 @@ st.markdown(
 )
 st.write("‪‪‬Play with the settings on the left and watch how the neuron respond!🫨")
 
-tab1, tab2, tab3 = st.tabs(["Single neuron✶", "Firing rate curveᝰ", "Learn:)"])
+tab1, tab2, tab3 = st.tabs(["Single neuron✶", "Firing rate curveᝰ", "Learn◡̈"])
 
 # ----- Tab 1: voltage trace -----
 with tab1:
