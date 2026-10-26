@@ -3,7 +3,7 @@ An interactive simulation of how a single neuron fires, built with Python and St
 
 https://spikelab-i11.streamlit.app/
 
-## Features
+# Features
 
 - Seven sliders to change the neuron's properties and see the membrane potential respond
 - Spike count, mean firing rate and the minimum current needed to fire, calculated live
