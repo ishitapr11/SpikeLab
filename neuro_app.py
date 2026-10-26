@@ -84,7 +84,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
-st.write("‪‪ ‬Play with the settings on the left and watch how the neuron respond!🫨")
+st.write("‪‪‬Play with the settings on the left and watch how the neuron respond!🫨")
 
 tab1, tab2, tab3 = st.tabs(["Single neuron✶", "Firing rate curveᝰ", "Learn:)"])
 
